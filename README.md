@@ -1,2 +1,2 @@
 # rainiersoaps
-for funsies
+![Rainier Soaps](rainier-header.png)
