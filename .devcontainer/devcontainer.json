@@ -1,6 +1,6 @@
 {
   "image": "ghcr.io/maazghani/dev:main",
   "features": {
-    "ghcr.io/devcontainers/features/npm:1":{}
+    "ghcr.io/devcontainers/features/node:1":{}
   }
 }
